@@ -9,3 +9,5 @@ To Know How To Use DynamicFWT First Follow Instructions!
 
 Download AIX:
 <a href="https://github.com/BrandonAI2/DynamicFWT/raw/main/dynamic-f-w-t/out/com.brandonang.dynamicfwt.aix">Download DynamicFWT</a>
+
+V2 will be released soon
